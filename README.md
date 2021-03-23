@@ -1,8 +1,8 @@
 # Online-Shopping-Web-app
 
-*Shopping website allow users to register, login, choose items to check out
-*Allow user to browse items, edit shopping cart, fill in shipping and payment information, and check out. 
-*Using HTML/CSS, JavaScript, jQuery, Ajax, PHP, SQL. 
+* Shopping website allow users to register, login, choose items to check out
+* Allow user to browse items, edit shopping cart, fill in shipping address and payment information, and check out the order. 
+* Using HTML，CSS, JavaScript, jQuery, Ajax, PHP, SQL. 
 
 
 
